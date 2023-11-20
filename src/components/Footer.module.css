@@ -1,0 +1,8 @@
+.container {
+  height: 50px;
+  background-color: rgb(168, 167, 165);
+  text-align: center;
+}
+.container p {
+  line-height: 50px;
+}

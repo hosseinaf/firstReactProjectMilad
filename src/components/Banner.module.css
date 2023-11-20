@@ -1,0 +1,25 @@
+.contianer {
+  width: 100%;
+  position: relative;
+  background-color: rgb(159, 167, 167);
+  position: relative;
+}
+.contianer img {
+  width: 100%;
+}
+
+.text {
+  position: absolute;
+  top: 150px;
+  left: 150px;
+}
+
+.text h1 {
+  font-size: 6rem;
+  color: rgb(14, 14, 14);
+}
+
+.text p {
+  font-size: 3rem;
+  color: rgb(13, 13, 14);
+}
