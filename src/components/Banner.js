@@ -1,4 +1,4 @@
-import mountain from "../images/mount.webp";
+import mountain from "../images/skoulas.jpg";
 import style from "../components/Banner.module.css";
 const Banner = () => {
   return (
